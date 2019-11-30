@@ -94,7 +94,7 @@ class _AnimatedButtonState extends State<AnimatedButton>
             Text(
               '${widget.text}',
               style: TextStyle(
-                  color: Colors.white,
+                  color: Colors.red,
                   fontWeight: FontWeight.w700,
                   fontSize: 16),
             ),
