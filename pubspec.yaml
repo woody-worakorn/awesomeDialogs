@@ -25,8 +25,18 @@ dev_dependencies:
 flutter:
 
   # To add assets to your package, add an assets section, like this:
-   assets:
-     - assets/flare/
+  assets:
+    - assets/flare/
+  fonts:
+    - family: AB
+      fonts:
+        - asset: assets/font/Anakotmai-Bold.ttf
+    - family: AM
+      fonts:
+        - asset: assets/font/Anakotmai-Medium.ttf
+    - family: AL
+      fonts:
+        - asset: assets/font/Anakotmai-Light.ttf
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
   #
